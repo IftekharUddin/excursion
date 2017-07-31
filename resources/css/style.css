@@ -25,4 +25,9 @@ p {
   font-size: 16px;
 }
 
+#Copyright {
+  text-align: right;
+  color: gray;
+}
+
 
